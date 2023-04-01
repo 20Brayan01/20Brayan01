@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 
 
 ![](https://github-profile-trophy.vercel.app/?username=20Brayan01&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2031%20mins-blue)
+
