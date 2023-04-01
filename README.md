@@ -32,3 +32,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2031%20mins-blue)
 
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: 20Brayan01/20Brayan01
+        with:
+          WAKATIME_API_KEY: ${{ waka_437dbe18-b4e2-4364-a377-9b894c5ebbac }}
+          GH_TOKEN: ${{ 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 }}
