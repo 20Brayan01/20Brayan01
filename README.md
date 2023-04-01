@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=20Brayan01&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### Coding Stats
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 
 
