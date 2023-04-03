@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=20Brayan01)](https://git.io/streak-stats)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20Brayan01)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=20Brayan01&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
