@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20Brayan01&theme=shades-of-purple&show_icons=true)
+![github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=20Brayan01)
 
-![](https://github-profile-trophy.vercel.app/?username=20Brayan01&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### Coding Stats
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
